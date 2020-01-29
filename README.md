@@ -1,0 +1,2 @@
+# Qwixcoin
+Scrypt based cryptocurrency
