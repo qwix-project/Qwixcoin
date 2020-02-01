@@ -9,8 +9,7 @@ Scrypt based cryptocurrency
 
 -Linux Qt - Compile it. read doc/build-unix file.
 
--Block explorer Coming soon!
-
+-Block explorer - http://explorer.qwixcoin.org
 -Website Coming soon!
 
 etc.
