@@ -4,7 +4,8 @@ Scrypt based cryptocurrency
 
 
 # Mining pools: 
-- http://pool.qwixcoin.org - https://www.0769.it
+- http://pool.qwixcoin.org 
+- https://www.0769.it
 
 - Windows wallet 1.0 Released
 
