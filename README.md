@@ -7,11 +7,12 @@ Scrypt based cryptocurrency
 - http://pool.qwixcoin.org 
 - https://www.0769.it
 
+# Wallets
 - Windows wallet 1.0 Released
 
-- Linux Qt - Compile it. read doc/build-unix file.
+- Linux wallet 1.0 Released
 
-# Block explorer:
+# Block explorers:
 - http://explorer.qwixcoin.org
 
 Website Coming soon!
