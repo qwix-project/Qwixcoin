@@ -7,16 +7,21 @@ Scrypt based cryptocurrency
 - http://pool.qwixcoin.org 
 - https://www.0769.it
 
-# Wallets
+# Wallets:
 - Windows wallet 1.0 Released
 - Linux wallet 1.0 Released
 
+Download Files from Releases selection.
+
 # Block explorers:
 - http://explorer.qwixcoin.org
+
+# Faucets:
+- https://faucet.qwixcoin.org
 
 # Want to be part of team?
 - Please send an e-mail to qwixcoin (a) gmail.com.
 - Tell why you want to become a team member and what skills we can get from you.
 - Thank you!
 
-- 04/02/2020 07:23 - Jyrki, Team Leader
+- 15/Feb/2020  - Jyrki, Team Leader
