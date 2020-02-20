@@ -26,13 +26,6 @@ Unpack the files into a directory, and then run qwix-qt.exe.
 
 Drag Qwix-Core to your applications folder, and then run Qwix-Core.
 
-### Need Help?
-
-* See the documentation at the [Qwix Wiki](https://qwix.info/)
-for help and more information.
-* Ask for help on [#qwix](http://webchat.freenode.net?channels=qwix) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=qwix).
-* Ask for help on the [QwixTalk](https://qwixtalk.io/) forums.
-
 Building
 ---------------------
 The following are developer notes on how to build Qwix on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
@@ -46,7 +39,7 @@ The following are developer notes on how to build Qwix on your native platform. 
 
 Development
 ---------------------
-The Qwix repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Qwixcoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
@@ -61,8 +54,7 @@ The Qwix repo's [root README](/README.md) contains relevant information on the d
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [QwixTalk](https://qwixtalk.io/) forums.
-* Discuss general Qwix development on #qwix-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=qwix-dev).
+* Discuss on the [Discord](https://discord.gg/v2BUNpP) forums.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
