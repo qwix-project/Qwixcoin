@@ -21,7 +21,7 @@ Download Files from Releases selection.
 - https://faucet.qwixcoin.org
 
 # Want to be part of team?
-- Please send an e-mail to qwixcoin (a) gmail.com.
+- Please send an e-mail to admin@mail.qwixcoin.org.
 - Tell why you want to become a team member and what skills we can get from you.
 - Thank you!
 
