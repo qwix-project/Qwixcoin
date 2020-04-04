@@ -1,3 +1,5 @@
+# If you want to get Qwixcoin listed in erex.io exchange, please give a vote: https://erex.io/vote Thank you.
+
 # Qwixcoin
 
 Scrypt based cryptocurrency
