@@ -17,6 +17,9 @@ Download Files from Releases selection.
 # Block explorers:
 - http://explorer.qwixcoin.org
 
+# Exchanges
+- https://erex.io
+
 # Faucets:
 - https://faucet.qwixcoin.org
 
@@ -24,4 +27,4 @@ Download Files from Releases selection.
 - Please send PM on discord!
 - Thank you!
 
-- 15/Feb/2020  - Jyrki, Team Leader
+- 09/APR/2020  - Jyrki, Team Leader
