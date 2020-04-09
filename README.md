@@ -1,12 +1,10 @@
-# If you want to get Qwixcoin listed in erex.io exchange, please give a vote: https://erex.io/vote Thank you.
-
 # Qwixcoin
 
 Scrypt based cryptocurrency
 
 
 # Mining pools: 
-- http://pool.qwixcoin.org 
+- http://crpool.xyz/ 
 - https://www.0769.it
 - http://doipool.com/
 
@@ -23,8 +21,7 @@ Download Files from Releases selection.
 - https://faucet.qwixcoin.org
 
 # Want to be part of team?
-- Please send an e-mail to admin@mail.qwixcoin.org.
-- Tell why you want to become a team member and what skills we can get from you.
+- Please send PM on discord!
 - Thank you!
 
 - 15/Feb/2020  - Jyrki, Team Leader
