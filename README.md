@@ -12,8 +12,8 @@ Scrypt based cryptocurrency
 - Windows wallet 1.0 Released
 - Linux wallet 1.0 Released
 
-Download Files from Releases selection.
 
+<a href="https://github.com/qwix-project/Qwixcoin/releases">Download Files from Releases selection.</a>
 # Block explorers:
 - http://explorer.qwixcoin.org
 
