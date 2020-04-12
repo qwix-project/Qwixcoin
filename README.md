@@ -24,7 +24,7 @@ Download Files from Releases selection.
 - https://faucet.qwixcoin.org
 
 # Want to be part of team?
-- Please send PM on discord!
+- Please send PM on <a href="https://discord.gg/v2BUNpP">Discord</a>
 - Thank you!
 
 - 09/APR/2020  - Jyrki, Team Leader
